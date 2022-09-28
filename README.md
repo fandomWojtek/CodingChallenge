@@ -2,8 +2,8 @@
 
 Please, download the repository and get familiar with it.
 
-Task is to create clean and readable code that shows the list of figures and the color of them. List should refresh 
-after pull down. 
+Task is to create(refactor current) clean and readable code that shows the list of figures and the color of them. List
+should refresh after pull down. 
 
 You can think about the solution and what to do, but please wait with the coding for the interview.
 
